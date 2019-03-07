@@ -29,7 +29,7 @@ def calculo():
     as informações que o usuário digitou e foi salva em nossas listas! Você irá entender.
     '''
 
-    print("O seu peso no planeta {:.2f} será de aproximadamente {:.2f} newtons ".format(planeta[0],lambd(p,i)))
+    print("O seu peso no planeta {} será de aproximadamente {:.2f} newtons ".format(planeta[0],lambd(p,i)))
     
     # A linha de código acima é importante para entendermos como a função lambda irá somar nossos valores
     # Olhe apenas para essa parte do código: .format(planeta[0],lambd(p,i)
