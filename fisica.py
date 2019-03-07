@@ -1,14 +1,14 @@
 
 import os
 
-planeta = [] #Nesse trecho de código defini as listas que vão armazenar as informações uteis que iremos utilizar
+planeta = [] #Nesse trecho de código defini as listas que vão armazenar as informações uteis para nossa utilização
 p = [] #Irá armazenar a massa (peso como dizemos)
 i = [] #E nessa lista aqui, iremos armazenar a gravidade do planeta digitado
 
-def main(): #Defini uma função principal para caso o usuário desejar reiniciar o programa, basta chamar novamente a função
+def main(): #Defini uma função principal para caso o usuário desejar reiniciar o programa, basta chamar novamente a função :)
     global planeta # Chamei as listas que estão contidas no escopo principal do programa (a lista que no caso foi nomeada como "planeta")
-    global p #A lista nomeada com o nome p de "peso" que no caso é a massa digitada pelo usuário que será armazenada
-    global i # E chamamos novamente a lista "i" que irá conter a gravidade
+    global p #Chamei a lista nomeada com o nome p de "peso" que no caso é a massa digitada pelo usuário que será armazenada
+    global i # E chamei novamente a lista "i" que irá conter a gravidade
 
     planet = input("Deseja calcular o seu peso em qual planeta? ").strip().capitalize() # Perguntamos o nome do planeta que o usuário deseja calcular
     massa = float(input("Digite a sua massa: ")) # Perguntamos a massa (peso) do usuário
