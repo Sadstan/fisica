@@ -4,6 +4,6 @@ Sabendo que o peso é igual a sua massa multiplicada pela gravidade desenvolvi e
 P = m.g
 Onde retornara seu peso em determinado planeta em <b>newtons</b>
 
-<img src="https://i.kym-cdn.com/entries/icons/original/000/015/725/url-3-10tjli1.jpeg"/>
+<img width="800" height="800" src="https://i.kym-cdn.com/entries/icons/original/000/015/725/url-3-10tjli1.jpeg"/>
 
 Bitch please!
