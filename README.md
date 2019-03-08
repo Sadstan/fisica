@@ -6,7 +6,7 @@ Sabendo que o **peso** é igual a sua **massa** multiplicada pela **gravidade** 
 <br />
 P = m.g
 
-Onde retornara seu peso em determinado planeta em <b>newtons</b>
+Onde retornara seu peso em determinado planeta em <b>NEWTONS</b>
 
 <img width="400px" height="600px" src="https://principia.io/media/uploads/images/newton/newton-portada-principia.jpg"/>
 
