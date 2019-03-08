@@ -1,4 +1,4 @@
-<img width="400px" height="500px" src="https://principia.io/media/uploads/images/newton/newton-portada-principia.jpg"/>
+<img width="400px" height="600px" src="https://principia.io/media/uploads/images/newton/newton-portada-principia.jpg"/>
 
 ## Calculo de peso
 
