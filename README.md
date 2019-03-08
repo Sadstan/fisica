@@ -1,5 +1,5 @@
 
-## Calculo de peso
+## Calculo de peso em Newtons
 
 <img width="400px" height="600px" src="https://principia.io/media/uploads/images/newton/newton-portada-principia.jpg"/>
 
