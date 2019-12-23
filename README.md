@@ -1,12 +1,12 @@
 
 ## Calculo de peso em Newtons
 
-Com alguns conhecimentos básicos em fisica, desenvolvi esse exercicio em linguagem Python:
+Com alguns conhecimentos básicos em fisica, desenvolvi esse exercicio em linguagem Python:<br />
 Sabendo que o **peso** é igual a sua **massa** multiplicada pela **gravidade** desenvolva um algoritmo capaz de retornar o seu peso
 em determinado planeta.
 
-Lembrando que: Peso se diferencia de massa;
-Peso: Força exercida sobre um corpo (gravidade)
+Lembrando que: Peso se diferencia de massa;<br />
+Peso: Força exercida sobre um corpo (gravidade)<br />
 Massa: Quantidade de matéria presente em um corpo, por ex: João possui uma massa de 60Kg
 
 <br />
